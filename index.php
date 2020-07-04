@@ -57,7 +57,8 @@
     <div id="features">
       <div class="container-sm mt-5">
         <h1 class="text-enclave heading">Features</h1>
-        <div class="row">
+
+        <div class="row mb-5">
           <!--Feature Description-->
           <div class="col-sm-12 col-md-6">
             <h2>Smooth Scrolling</h2>
@@ -72,7 +73,67 @@
           </div>
 
           <!--Feature Image-->
-          <div class="col-12 col-md-6">
+          <div class="col-12 col-md-6 text-center">
+            <img class="img-fluid" alt="Feature Image" src="assets/images/dummy.png">
+          </div>
+        </div>
+
+        <div class="row mb-5">
+          <!--Feature Description-->
+          <div class="col-sm-12 col-md-6">
+            <h2>Smooth Scrolling</h2>
+            <p class="paragraph">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+          </div>
+
+          <!--Feature Image-->
+          <div class="col-12 col-md-6 text-center">
+            <img class="img-fluid" alt="Feature Image" src="assets/images/dummy.png">
+          </div>
+        </div>
+
+        <div class="row mb-5">
+          <!--Feature Description-->
+          <div class="col-sm-12 col-md-6">
+            <h2>Smooth Scrolling</h2>
+            <p class="paragraph">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+          </div>
+
+          <!--Feature Image-->
+          <div class="col-12 col-md-6 text-center">
+            <img class="img-fluid" alt="Feature Image" src="assets/images/dummy.png">
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <!--Feature Description-->
+          <div class="col-sm-12 col-md-6">
+            <h2>Smooth Scrolling</h2>
+            <p class="paragraph">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+          </div>
+
+          <!--Feature Image-->
+          <div class="col-12 col-md-6 text-center">
             <img class="img-fluid" alt="Feature Image" src="assets/images/dummy.png">
           </div>
         </div>
@@ -80,15 +141,15 @@
     </div>
 
     <!--Download the App-->
-    <div id="download" class="bg-enclave">
+    <div id="download" class="bg-enclave pb-4">
       <div class="container-sm container-md container-lg pt-md-5 text-white">
         <div class="row">
-          <div class="col-sm-12 col-md-6">
+          <div class="col-sm-12 col-md-8 text-center">
             <!--Image of Phone displaying the app-->
             <img class="img-fluid tilt-image" alt="Phone displaying app" src="assets/images/samsung.png" width="350">
           </div>
 
-          <div class="col-sm-12 col-md-6 pt-md-5">
+          <div class="col-sm-12 col-md-4 text-center pt-md-5">
             <h1>Download Enclave</h1>
             <!--Google Play Image-->
             <p>
