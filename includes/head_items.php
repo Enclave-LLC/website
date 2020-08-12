@@ -13,3 +13,6 @@
 
 <!-- Custom CSS-->
 <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+<!-- Font Awesome -->
+<script src="https://kit.fontawesome.com/bb3f67b380.js" crossorigin="anonymous"></script>
