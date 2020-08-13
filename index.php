@@ -86,7 +86,7 @@
           </div>
 
           <div class="col-12 col-sm-12 col-md-4 col-lg-4">
-            <img class="mb-3" src="assets/images/SvgjsG1008.svg" alt="">
+            <img class="mb-3" src="assets/images/Fingerprint.svg" alt="">
             <h2>Sign Up</h2>
             <p>
               Create an account and follow through the onboarding process
@@ -94,7 +94,7 @@
           </div>
 
           <div class="col-12 col-sm-12 col-md-4 col-lg-4">
-            <img class="mb-3" src="assets/images/LINE EXPAND.svg" alt="">
+            <img class="mb-3" src="assets/images/event.svg" alt="">
             <h2>Book & Pay</h2>
             <p>
               Start booking your event space with ease.
